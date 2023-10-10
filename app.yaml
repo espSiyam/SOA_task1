@@ -1,3 +1,4 @@
+service: jetty-webserver
 runtime: python
 env: flex
 entrypoint: gunicorn -b :$PORT main:app
