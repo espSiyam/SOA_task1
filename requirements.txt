@@ -1,2 +1,5 @@
 Flask
 zeep
+Flask-HTTPAuth
+gunicorn
+Werkzeug
